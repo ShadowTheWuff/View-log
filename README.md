@@ -1,5 +1,5 @@
 # Setting up
-
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/ShadowTheWuff/View-log/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/ShadowTheWuff/View-log/tree/main)
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Flulu5239%2Fview-loggers&env=WEBHOOK_URL&envDescription=Paste%20your%20Discord%2FGuilded%20Webhook%20URL)
 
 1. Make an account on [Vercel](https://vercel.com/);
